@@ -62,6 +62,15 @@ EvilTree
 Exploit Development Tools
 * https://github.com/mgeeky/Exploit-Development-Tools
 
+Penetration Testing Tools
+* https://github.com/mgeeky/Penetration-Testing-Tools
+
+Havoc C2
+* https://github.com/HavocFramework/Havoc
+
+Azure Attack Kit
+* https://github.com/ZephrFish/AzureAttackKit
+
 
 
   b. Pentesting
