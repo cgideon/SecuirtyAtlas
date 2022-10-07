@@ -56,6 +56,14 @@ Ghidra
 Cutter
 * https://cutter.re/
 
+EvilTree
+* https://github.com/t3l3machus/eviltree
+
+Exploit Development Tools
+* https://github.com/mgeeky/Exploit-Development-Tools
+
+
+
   b. Pentesting
   
 Layer 1 - Physical:
@@ -112,6 +120,13 @@ https://www.shodan.io/
 https://gchq.github.io/CyberChef/
 
 
+	d. Virtual Machines
+	
+	REMnux (https://remnux.org/)
+	
+	FLARE VM (https://www.mandiant.com/resources/blog/flare-vm-the-windows-malware)
+	
+	Kali (https://www.kali.org/get-kali/)
 
 
 ### References
