@@ -168,6 +168,15 @@ PRET
 OSCE Guide
 * https://github.com/CyberSecurityUP/OSCE-Complete-Guide
 
+Pentest+
+* https://www.comptia.org/certifications/pentest
+
+Security+
+* https://www.comptia.org/certifications/security
+
+CEH
+* https://cybersecurityguide.org/programs/cybersecurity-certifications/ceh/
+
 TCM
 * https://certifications.tcm-sec.com/
 
