@@ -11,7 +11,7 @@
 
 ### Tools
 
-a. GitHub Tools
+## a.1 GitHub Tools
 
 DHVMA
 * https://github.com/logicalhacking/DVHMA
@@ -71,6 +71,13 @@ Havoc C2
 Azure Attack Kit
 * https://github.com/ZephrFish/AzureAttackKit
 
+## a.2 Cloud Security
+
+Cloud-Security-Attacks
+* https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+
+Hacking-The-Cloud
+* https://github.com/Hacking-the-Cloud/hackingthe.cloud
 
 
   b. Pentesting
